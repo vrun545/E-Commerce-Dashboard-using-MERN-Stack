@@ -1,0 +1,125 @@
+/* Navbar */
+.nav-ul li{
+  display: inline-block;
+  padding: 10px;
+}
+
+.nav-ul li a{
+  color: #fff;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.nav-ul{
+  padding: 5px;
+  margin: 0px;
+  background-color: #282c34;
+}
+
+/* Footer */
+.footer{
+  position: absolute;
+  bottom: 0;
+  margin-bottom: -10px;
+  text-align: center;
+  width: 100%;
+  background-color: #282c34;
+  color: #fff;
+  text-decoration:none;
+} 
+
+/* Signup component */
+.register, .product {
+  margin-left: 30%;
+}
+
+.login {
+  margin-left: 30%;
+  margin-top: 80px;
+}
+
+.inputBox {
+  display: block;
+  margin: 25px;
+  padding: 7px;
+  width: 300px;
+  border: 1px solid #282c34;
+} 
+
+.appButton {
+  margin: 25px;
+  padding: 10px;
+  width: 150px;
+  background-color: #282c34;
+  border: 1px solid;
+  cursor: pointer;
+  color: white;
+}
+
+
+/* Login and SignUp Links */
+.nav-right {
+  text-align: right;
+}
+
+
+/* Logo on Navbar */
+.logo {
+  width:45px;
+  float:left;
+  border-radius: 50%;
+  margin-top: 3px;
+  margin-left: 20px;
+}
+
+
+/* Add-Product Component */
+.invalid-input{
+  color: red;
+  margin-top: -20px;
+  display: block;
+  margin-left: 20px;
+}
+
+/* Product-List component */
+.product-list ul li {
+  display: inline-block;
+  border: 1px solid #282c34;
+  padding: 5px;
+  width: 150px;
+
+}
+
+.product-list ul {
+  margin: 0px;
+}
+
+.product-list {
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* Search Box */
+.search-product-box {
+  width: 400px;
+  margin: 20px;
+  height: 40px;
+  border: 1px solid #282c34;
+  padding-left: 20px;
+}
+
+/* User Profile Component */
+.card {
+  border: 1px solid #ddd;
+  padding: 26px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  margin: auto;
+  margin-top: 80px;
+  text-align: center;
+}
+
+.detail {
+  margin: 20px 0;
+}
