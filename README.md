@@ -63,20 +63,4 @@ Welcome to the E-commerce Web App Dashboard repository! This web application pro
 
 5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the application.
 
-## Usage
-
-[Include instructions on how to use the app, how to navigate through different features, and any other relevant details.]
-
-## Contributing
-
-[Include information on how others can contribute to the project, guidelines for pull requests, and code of conduct.]
-
-## License
-
-[Specify the license under which the project is distributed. For example, MIT License.]
-
-## Acknowledgments
-
-[Give credit to any third-party libraries, tutorials, or resources that you used or found helpful during development.]
-
 ---
